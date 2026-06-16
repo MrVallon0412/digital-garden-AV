@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"/carnet/","permalink":"/carnet/","tags":["gardenEntry"],"updated":"2026-06-16T17:37:43.821-04:00","dg-note-properties":{"type":"new_note","created":"2026-06-16 14:39"}}
+{"dg-publish":true,"dg-permalink":"/carnet/","permalink":"/carnet/","tags":["gardenEntry"],"created":"2026-06-16T14:39:27.979-04:00","updated":"2026-06-16T17:47:03.569-04:00","dg-note-properties":{"type":"new_note","created":"2026-06-16 14:39"}}
 ---
 
-# Accueil carnet
+# Le carnet 
 
-Ceci est un test ! 
+## C'est quoi ça ? 
+C'est mon petit coin d'internet, un journal de bord de mes différents projets et expérimentations artistiques, une collection de mes réflexions et angoisses. Bref, une fenêtre virtuel sur mon univers créatif. 
 
