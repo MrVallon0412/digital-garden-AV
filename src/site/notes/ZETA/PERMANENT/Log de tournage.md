@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ZETA/PERMANENT/Log de tournage/","tags":["permanent_note"],"created":"2025-06-17T14:56:27.133-04:00","updated":"2026-06-16T23:26:47.077-04:00","dg-note-properties":{"connections":null,"tags":["permanent_note"],"type":"permanent_note","created":"2025-02-13 20:06"}}
+{"dg-publish":true,"dg-permalink":"/carnet/log-de-tournage/","permalink":"/carnet/log-de-tournage/","tags":["permanent_note"],"created":"2025-06-17T14:56:27.133-04:00","updated":"2026-06-16T23:28:54.293-04:00","dg-note-properties":{"connections":null,"tags":["permanent_note"],"type":"permanent_note","created":"2025-02-13 20:06"}}
 ---
 
 
