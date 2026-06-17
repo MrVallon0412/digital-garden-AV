@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/carnet/log-de-tournage/","permalink":"/carnet/log-de-tournage/","tags":["permanent_note"],"created":"2025-06-17T14:56:27.133-04:00","updated":"2026-06-16T23:55:44.961-04:00","dg-note-properties":{"connections":null,"tags":["permanent_note"],"type":"permanent_note","created":"2025-02-13 20:06"}}
+{"dg-publish":true,"dg-permalink":"/carnet/log-de-tournage/","permalink":"/carnet/log-de-tournage/","tags":["permanent_note"],"created":"2025-06-17T14:56:27.133-04:00","updated":"2026-06-16T23:57:15.671-04:00","dg-note-properties":{"connections":null,"tags":["permanent_note"],"type":"permanent_note","created":"2025-02-13 20:06"}}
 ---
 
 
@@ -48,4 +48,4 @@ Links: [[PARA/WORKSTATION/Cinema MOC\|Cinema MOC]]
 30. Cantinier - _Détresse_ - Janvier 2026 🟢
 31. DOP - _Kino Kazo_ - Janvier 2026 🟢
 32. DOP / COLO - _Party Girl_ - Février 2026 🟢
-33. DOP / AC - _Manière d'être mouvant_ - Février 2026 🟢
+33. DOP / AC - _Manière d'être mouvant_ - Mars 2026 🟢
