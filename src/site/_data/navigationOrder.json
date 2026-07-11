@@ -1,0 +1,21 @@
+{
+  "/": [
+    "Carnet"
+  ],
+  "/Carnet": [
+    "Accueil carnet",
+    "Cinéma",
+    "Académique"
+  ],
+  "/Carnet/Cinéma": [
+    "Log de tournage",
+    "Projets"
+  ],
+  "/Carnet/Cinéma/Projets": [
+    "Party Girl"
+  ],
+  "/Carnet/Académique": [
+    "Fétichisme techno-scopophilique, hétérotopie du désir et nouveaux assujettissements",
+    "À la jonction de la culture numérique et du court métrage - Le soldat d’Adam Paradisio"
+  ]
+}
