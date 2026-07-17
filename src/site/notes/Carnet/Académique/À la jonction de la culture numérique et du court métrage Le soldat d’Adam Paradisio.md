@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Carnet/Académique/À la jonction de la culture numérique et du court métrage Le soldat d’Adam Paradisio/","created":"2026-07-11T16:08:35.681-04:00","updated":"2026-07-11T16:29:13.925-04:00","dg-note-properties":{"type":"new_note","created":"2026-07-11 16:08"}}
+{"dg-publish":true,"permalink":"/Carnet/Académique/À la jonction de la culture numérique et du court métrage Le soldat d’Adam Paradisio/","created":"2026-07-11T16:08:35.681-04:00","updated":"2026-07-17T17:02:53.889-04:00","dg-note-properties":{"type":"new_note","created":"2026-07-11 16:08"}}
 ---
 
 
@@ -11,7 +11,7 @@ Links: [[Carnet/Accueil carnet\|Accueil carnet]]
 ---
 ## Informations : 
 
-Travail rédigé dans le cadre du cours *Mouvements ou écoles cinématographiques* I de l'Université Laval en décembre 2025.
+Travail rédigé dans le cadre du cours *Mouvements ou écoles cinématographiques* *I* de l'Université Laval en décembre 2025 avec Gabriel Fournier.
 
 ---
 ## Mutation du cinéma et centralité contemporaine du court

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Carnet/Académique/Fétichisme techno-scopophilique, hétérotopie du désir et nouveaux assujettissements/","created":"2026-07-11T15:58:32.249-04:00","updated":"2026-07-11T16:24:52.898-04:00","dg-note-properties":{"type":"new_note","created":"2026-07-11 15:58"}}
+{"dg-publish":true,"permalink":"/Carnet/Académique/Fétichisme techno-scopophilique, hétérotopie du désir et nouveaux assujettissements/","created":"2026-07-11T15:58:32.249-04:00","updated":"2026-07-17T17:02:35.594-04:00","dg-note-properties":{"type":"new_note","created":"2026-07-11 15:58"}}
 ---
 
 
@@ -9,12 +9,12 @@ Tags : #académique #écriture #cinéma #analyse
 Links: [[Carnet/Accueil carnet\|Accueil carnet]]
 
 ---
-******[[Carnet/Académique/## Informations  Travail rédigé dans le cadre du cours cinéma et sexualité de l'Université Laval en décembre 2025.---## Introduction.md|## Informations : 
+## Informations : 
 
 Travail rédigé dans le cadre du cours cinéma et sexualité de l'Université Laval en décembre 2025.
 
 ---
-## Introduction]]******
+## Introduction
 
 Qu’est-ce qui arrive quand le capitalisme s’immisce dans nos relations les plus intimes ? Lorsqu’on essaie d’y échapper, sortir du modèle et se réapproprier son propre corps ? Je dirais que _Crash_ (1996) de David Cronenberg en est un très bon exemple en présentant une nouvelle grammaire du désir, où corps-machines et cicatrices remplacent les caresses habituelles. Adapté du roman de J.G. Ballard de 1973, la transition « cronenbergienne » à l’écran a reçu des critiques mitigées, mais a su choquer, même au prestigieux Festival de Cannes de 1996. Le film a engendré de vives réactions négatives de la part des spectateurs, et selon les dires de Cronenberg lui-même, Francis Ford Coppola, président du jury de cette année-là, aurait catégoriquement refusé de lui remettre son prix. Pour quelles raisons, direz-vous ? Probablement similaires à celles des spectateur.trice.s, sous le choc face aux représentations sexuelles abjectes et violentes.
 Nous suivons James Ballard et sa femme Catherine dans les ébats que suscite leur mariage ouvert, le couple utilisant ces aventures pour pimenter leur vie sexuelle. Un soir, sur le chemin du retour, James, visiblement distrait, entre en collision frontale avec une autre voiture et tue le conducteur. Lorsque la passagère, la Dre Helen Remington, laisse alors entrevoir un sein en détachant sa ceinture de sécurité, James semble éprouver un nouvel éveil sexuel. Alors qu’il se remet de ses blessures à l’hôpital, il recroise Helen et fait la connaissance de Robert Vaughan, particulièrement obsédé par sa blessure. Cette rencontre marque le tournant qui mènera James, Catherine et Helen à rejoindre un groupe de symphorophiles dirigé par nul autre que Vaughan.
