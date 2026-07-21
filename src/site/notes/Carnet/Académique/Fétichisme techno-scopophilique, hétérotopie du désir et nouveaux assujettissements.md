@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Carnet/Académique/Fétichisme techno-scopophilique, hétérotopie du désir et nouveaux assujettissements/","created":"2026-07-11T15:58:32.249-04:00","updated":"2026-07-17T17:02:35.594-04:00","dg-note-properties":{"type":"new_note","created":"2026-07-11 15:58"}}
+{"dg-publish":true,"dg-permalink":"/fetichisme-techno-scopophilique/","permalink":"/fetichisme-techno-scopophilique/","created":"2026-07-11T15:58:32.249-04:00","updated":"2026-07-21T13:38:36.924-04:00","dg-note-properties":{"type":"new_note","created":"2026-07-11 15:58"}}
 ---
 
 

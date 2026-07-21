@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"/log-de-tournage/","permalink":"/log-de-tournage/","tags":["permanent_note"],"created":"2025-06-17T14:56:27.133-04:00","updated":"2026-07-09T15:23:00.526-04:00","dg-note-properties":{"connections":null,"tags":["permanent_note"],"type":"permanent_note","created":"2025-02-13 20:06"}}
+{"dg-publish":true,"dg-permalink":"/log-de-tournage/","permalink":"/log-de-tournage/","tags":["permanent_note"],"created":"2025-06-17T14:56:27.133-04:00","updated":"2026-07-21T14:18:08.937-04:00","dg-note-properties":{"connections":null,"tags":["permanent_note"],"type":"permanent_note","created":"2025-02-13 20:06"}}
 ---
 
-
+4
 Tags : #cinema #art #informations #log #tournages
 Links: [[PARA/WORKSTATION/Cinema MOC\|Cinema MOC]]
 
