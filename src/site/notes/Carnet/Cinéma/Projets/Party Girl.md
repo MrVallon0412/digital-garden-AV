@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/party_girl/","permalink":"/party_girl/","created":"2026-06-29T21:40:44.355-04:00","updated":"2026-07-09T15:20:10.372-04:00","dg-note-properties":{"type":"new_note","created":"2026-06-29 21:40"}}
+{"dg-publish":true,"permalink":"/Carnet/Cinéma/Projets/Party Girl/","created":"2026-06-29T21:40:44.355-04:00","updated":"2026-07-23T13:35:30.101-04:00","dg-note-properties":{"type":"new_note","created":"2026-06-29 21:40"}}
 ---
 
 

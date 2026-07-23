@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/log-de-tournage/","permalink":"/log-de-tournage/","tags":["permanent_note"],"created":"2025-06-17T14:56:27.133-04:00","updated":"2026-07-21T14:18:08.937-04:00","dg-note-properties":{"connections":null,"tags":["permanent_note"],"type":"permanent_note","created":"2025-02-13 20:06"}}
+{"dg-publish":true,"permalink":"/Carnet/Cinéma/Log de tournage/","tags":["permanent_note"],"created":"2025-06-17T14:56:27.133-04:00","updated":"2026-07-23T13:35:35.527-04:00","dg-note-properties":{"connections":null,"tags":["permanent_note"],"type":"permanent_note","created":"2025-02-13 20:06"}}
 ---
 
 4
