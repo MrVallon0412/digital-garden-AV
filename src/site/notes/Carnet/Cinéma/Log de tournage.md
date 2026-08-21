@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Carnet/Cinéma/Log de tournage/","tags":["permanent_note"],"created":"2025-06-17T14:56:27.133-04:00","updated":"2026-07-23T13:35:35.527-04:00","dg-note-properties":{"connections":null,"tags":["permanent_note"],"type":"permanent_note","created":"2025-02-13 20:06"}}
+{"dg-publish":true,"permalink":"/Carnet/Cinéma/Log de tournage/","tags":["permanent_note"],"created":"2025-06-17T14:56:27.133-04:00","updated":"2026-08-02T16:48:23.605-04:00","dg-note-properties":{"connections":null,"tags":["permanent_note"],"type":"permanent_note","created":"2025-02-13 20:06"}}
 ---
 
-4
+--- 
+
 Tags : #cinema #art #informations #log #tournages
 Links: [[PARA/WORKSTATION/Cinema MOC\|Cinema MOC]]
 
@@ -98,4 +99,7 @@ Links: [[PARA/WORKSTATION/Cinema MOC\|Cinema MOC]]
 38. **Assist. Tout** — Tourne à Québec — Mai 2026 🔵🟣
 	
 39. **Un peu de tout** — Inside the Dark Red Abyss — Juillet 2026 🟣
-
+	
+40. **Photo** — Ariane Roy FEQ — 18 juillet 2026 🟢
+	
+41. **AC / Photo / Montage** — Ferme de l'amour — 1er août 2026 🟣
