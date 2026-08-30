@@ -30,6 +30,8 @@ C'est mon petit coin d'internet, un journal de bord de mes différents projets e
 
 { .block-language-dataview}
 ## Rédactions
+- [[Carnet/Académique/L’importance du devoir de mémoire — Nuit et Brouillard\|L’importance du devoir de mémoire — Nuit et Brouillard]]
+- [[Carnet/Académique/Enter the Void (Gaspar Noé, 2009) — comment partager une expérience subjective\|Enter the Void (Gaspar Noé, 2009) — comment partager une expérience subjective]]
 - [[Carnet/Académique/La valeur de l’éphémère  - Analyse filmique de Les Glaneurs et la Glaneuse d’Agnès Varda (2000)\|La valeur de l’éphémère  - Analyse filmique de Les Glaneurs et la Glaneuse d’Agnès Varda (2000)]]
 - [[Carnet/Académique/Fétichisme techno-scopophilique, hétérotopie du désir et nouveaux assujettissements\|Fétichisme techno-scopophilique, hétérotopie du désir et nouveaux assujettissements]]
 - [[Carnet/Académique/À la jonction de la culture numérique et du court métrage Le soldat d’Adam Paradisio\|À la jonction de la culture numérique et du court métrage Le soldat d’Adam Paradisio]]
