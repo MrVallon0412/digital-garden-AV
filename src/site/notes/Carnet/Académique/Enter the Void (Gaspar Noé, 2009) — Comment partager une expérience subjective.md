@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Carnet/Académique/Enter the Void (Gaspar Noé, 2009) — Comment partager une expérience subjective/","created":"2026-08-30T16:38:06.036-04:00","updated":"2026-08-30T16:59:17.888-04:00","dg-note-properties":{"type":"new_note","created":"2026-08-30 16:38"}}
+{"dg-publish":true,"permalink":"/Carnet/Académique/Enter the Void (Gaspar Noé, 2009) — Comment partager une expérience subjective/","created":"2026-08-30T16:38:06.036-04:00","updated":"2026-08-30T17:37:39.636-04:00","dg-note-properties":{"type":"new_note","created":"2026-08-30 16:38"}}
 ---
 
 
